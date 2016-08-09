@@ -22,6 +22,4 @@ function FizzBuzz () {
 
 var fizzbuzz = new FizzBuzz();
 
-var result = fizzbuzz.doIt(1, 10);
-
-console.log(result);
+fizzbuzz.doIt(1, 100);
