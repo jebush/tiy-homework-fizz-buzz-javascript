@@ -28,8 +28,8 @@
       <file leaf-file-name="Main.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Main.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="21" column="5" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
+            <state relative-caret-position="255">
+              <caret line="19" column="5" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
               <folding>
                 <element signature="n#!!doc;n#FizzBuzz#0" expanded="false" />
               </folding>
@@ -593,12 +593,12 @@
       <updated>1470664533423</updated>
       <workItem from="1470664536941" duration="3959000" />
       <workItem from="1470747004044" duration="1000" />
-      <workItem from="1470747091490" duration="2772000" />
+      <workItem from="1470747091490" duration="4516000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6732000" />
+    <option name="totallyTimeSpent" value="8476000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="34" y="24" width="1400" height="763" extended-state="0" />
@@ -648,7 +648,7 @@
       <breakpoints>
         <line-breakpoint enabled="true" type="javascript">
           <url>file://$PROJECT_DIR$/Main.js</url>
-          <line>10</line>
+          <line>8</line>
           <properties />
           <option name="timeStamp" value="5" />
         </line-breakpoint>
@@ -660,8 +660,8 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/Main.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="21" column="5" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
+        <state relative-caret-position="255">
+          <caret line="19" column="5" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
           <folding>
             <element signature="n#!!doc;n#FizzBuzz#0" expanded="false" />
           </folding>

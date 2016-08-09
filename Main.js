@@ -2,13 +2,11 @@
  * Created by rush on 8/8/16.
  */
 
-function FizzBuzz (start, end) {
-    this.start = start;
-    this.end = end;
+function FizzBuzz () {
 
 
-    this.doIt = function() {
-        for (var i = this.start; i <= this.end; i++) {
+    this.doIt = function(start, end) {
+        for (var i = start; i <= end; i++) {
             if (i % 15 == 0) {
                 console.log("FizzBuzz");
             } else if (i % 3 == 0) {
@@ -20,11 +18,10 @@ function FizzBuzz (start, end) {
             }
         }
     }
-
 }
 
-var fizzbuzz = new FizzBuzz(1, 100);
+var fizzbuzz = new FizzBuzz();
 
-var result = fizzbuzz.doIt();
+var result = fizzbuzz.doIt(1, 10);
 
 console.log(result);
